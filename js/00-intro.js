@@ -17,3 +17,6 @@ KONCEPTAI
 6) oop - objektinis programavimas
 
 */
+
+console.log('labas ka tu');
+console.log('labas')
