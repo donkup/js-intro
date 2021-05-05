@@ -29,3 +29,10 @@ console.log(nesamone);
 
 const puseZodzio = "labas" / 2;
 console.log(puseZodzio);
+
+const a = 2;
+const b = 3;
+const c = 4;
+
+const d = (a + b) * c;
+console.log(d); 
