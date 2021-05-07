@@ -19,7 +19,7 @@ function canDrive(kiekis, sanaudos, atstumas) {
 
 
 const try1 = canDrive(20, 5, 400);
-const try2 = canDrive(50, 8, 1500);
+const try2 = canDrive(10, 8, 1500);
 const try3 = canDrive(20, 5, 20);
 
 console.log(try1);
