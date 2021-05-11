@@ -36,4 +36,14 @@ for(let i = 0; i < marks.length; i++){
     console.log(marks[i]);
 }
 console.log('------------------');
+const sakin = 'abcdef';
+
+for (let i = 0; i < sakin.length; i++) {
+    const element = sakin[i];
+    console.log(sakin[i]);
+    
+}
+const rev = [...sakin];
+    const rev2= rev.reverse()
+    console.log(rev2);
 
